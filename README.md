@@ -1,4 +1,4 @@
-Hi, I'm Akash Chouhan 👋
+Hi, I'm Punam Prajapati 👋
 
 <!--
 **punam002/punam002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
