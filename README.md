@@ -14,28 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-3️⃣ Question: Interview Types: Are behavioral and technical interviews both available?
-
-Matlab:
-
-Ye pooch raha hai ki AI tool me dono type ke interviews practice kar sakte ho ya nahi.
-
-Answer dene ka tarika:
-
-Dono type clearly mention karo: behavioral (soft skills) aur technical (coding/role-specific skills).
-
-Optional: ek short example add kar do for clarity.
-
-Sample Answer:
-"Yes, both behavioral and technical interviews are available. Behavioral questions cover teamwork, leadership, and problem-solving, while technical questions focus on coding, systems, and domain knowledge."
-
-💡 Tips for giving answers:
-
-Clear aur short sentences use karo.
-
-Example ya short explanation add kar do, ye interviewers ko samajhne me help karta hai.
-
-Focus karo ki AI ka benefit aur kaise kaam karta hai batao.
-
-Agar chaho, main inne 3 questions ke liye full ready-to-use answers in Hindi-English (Hinglish) version bhi bana doon, jise aap directly exam me likh sako.
-Kya main wo bana doon?
+🌱 I am a beginner Frontend Developer, currently learning HTML, CSS, JavaScript, and React.
+💻 I enjoy building small projects and improving my skills step by step.
+🚀 Always eager to learn new technologies and grow in web development.
