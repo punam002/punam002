@@ -60,10 +60,27 @@ Motivated and enthusiastic **Frontend Developer (Beginner)**, currently learning
 
 ## 🚀 Projects
 
-### 🍽 Restaurant Website
-- Built using **HTML & CSS**  
-- Created with guidance from **Gemini AI**  
-- Responsive design  
+### 🍽Projects
+
+🍽 Restaurant Website
+
+Built using HTML & CSS
+
+Created with guidance from Gemini AI
+
+Responsive design
+
+🌐 View Live
+
+🌱 Green Environment Project
+
+Built using HTML, CSS & 
+
+Focused on environment awareness and sustainability
+
+Responsive design
+
+🌐 View Live
 
 ---
 
