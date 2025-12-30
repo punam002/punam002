@@ -14,6 +14,82 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I am a beginner Frontend Developer, currently learning HTML, CSS, JavaScript, and React.
-💻 I enjoy building small projects and improving my skills step by step.
-🚀 Always eager to learn new technologies and grow in web development.
+ 👋 Hi, I'm Punam Prajapati 👋
+ 
+
+👋 About Me
+
+🌱 I am a beginner Frontend Developer with a strong interest in web technologies.
+💻 I enjoy building small projects using HTML, CSS, JavaScript, and React.
+🚀 I focus on learning by building and improving step by step.
+
+
+
+✍️ Professional Summary
+
+Motivated and enthusiastic Frontend Developer (Beginner), currently learning modern web technologies and building responsive user interfaces. Passionate about continuous learning and practical implementation.
+
+
+🎓 Education
+
+Bachelor of Computer Applications (BCA)
+Currently Pursuing
+
+NavGurukul – School of Programming
+Full Stack Web Development (Ongoing)
+Learning HTML, CSS, JavaScript, React, and GitHub through hands-on projects
+
+
+
+💻 Technical Skills
+
+HTML5
+
+CSS3
+
+JavaScript (Basics)
+
+React (Learning)
+
+Git & GitHub
+
+
+
+🤝 Soft Skills
+
+Time Management
+
+Problem Solving
+
+Teamwork
+
+🚀 Projects
+🍽 Restaurant Website
+
+Built using HTML & CSS
+
+Created with guidance from Gemini AI
+
+Responsive design
+
+
+
+🎯 Currently Learning
+
+React
+
+API Fetching
+
+JavaScript Logic
+
+
+
+📫 Contact: 9229455281
+
+💼 LinkedIn:https://www.linkedin.com/feed/
+
+📧 Email: punam24@navgurukul.org
+
+🌐 Portfolio:https://verdant-pika-39a2a4.netlify.app/
+
+💻 GitHub: https://github.com/punam002
