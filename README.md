@@ -60,27 +60,18 @@ Motivated and enthusiastic **Frontend Developer (Beginner)**, currently learning
 
 ## 🚀 Projects
 
-### 🍽Projects
+- 🍽 **Restaurant Website**  
+  - Built using HTML & CSS  
+  - Created with guidance from Gemini AI  
+  - Responsive design  
+  - 🌐 [View Live](https://lucent-cupcake-50eed4.netlify.app/)
 
-🍽 Restaurant Website
+- 🌱 **Green Environment Project**  
+  - Built using HTML, CSS & JavaScript  
+  - Focused on environment awareness and sustainability  
+  - Responsive design  
+  - 🌐 [View Live](https://green-environment.netlify.app/)
 
-Built using HTML & CSS
-
-Created with guidance from Gemini AI
-
-Responsive design
-
-🌐 View Live
-
-🌱 Green Environment Project
-
-Built using HTML, CSS & 
-
-Focused on environment awareness and sustainability
-
-Responsive design
-
-🌐 View Live
 
 ---
 
